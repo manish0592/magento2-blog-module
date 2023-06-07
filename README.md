@@ -1,2 +1,2 @@
-# magento2-blog-module
+# Intech Blog Module
 Blog module for Magento 2
